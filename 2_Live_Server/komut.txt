@@ -1,0 +1,6 @@
+//kurulum komutu
+npm install -g live-server --registry https://registry.npmjs.org
+//Kurulu global paketleri görme
+-npm list -g depth 0
+
+//işlemlerin geçerli olması için vscode tekrar başlat
