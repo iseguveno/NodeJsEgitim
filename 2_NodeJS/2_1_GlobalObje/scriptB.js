@@ -16,7 +16,7 @@ var  yaz=function(bilgi){
 //age değişkenini dışarı aktarmadık çünkü scriptA de kullanmayacağız.
 
 //bu şekildede tanımlanabilir.
-module.exports={
+exports={
     yaz,
     lastname
 }
